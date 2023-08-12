@@ -16,9 +16,5 @@ Hello there! My name is Ganesh Aware, and I am delighted to have this opportunit
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ganeshaware18&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
