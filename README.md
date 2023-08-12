@@ -3,6 +3,7 @@ Hello there! I'm Ganesh Aware, a seasoned WordPress developer with a passion for
 
 Currently, I'm channeling my expertise as an application engineer, where I'm immersed in the realm of cutting-edge technologies. My curiosity has led me to delve into the realms of DevOps practices, where I'm mastering tools like Docker and exploring the vast potential of cloud technologies. When I'm not immersed in code, you'll find me on the kabaddi field or engrossed in technical videos, constantly expanding my horizons. Let's connect and dive into the exciting world of technology together!
 
+:arrow_right:	 Portfolio Link: 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ganesh_aware) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshaware18) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ganeshaware11)
