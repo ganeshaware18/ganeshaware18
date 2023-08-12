@@ -19,8 +19,6 @@ Hello there! My name is Ganesh Aware, and I am delighted to have this opportunit
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ganeshaware18&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
