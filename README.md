@@ -1,10 +1,10 @@
 # 💫 About Me:
-Hello there! I'm Ganesh Aware, a seasoned WordPress developer with a passion for crafting digital experiences. Over the years, I've honed my skills in HTML, CSS, Bootstrap, JavaScript, and of course, the intricate world of WordPress. With a knack for troubleshooting and debugging, I thrive on solving complex issues and making websites run seamlessly.
+Hello there! I'm Ganesh Aware, a seasoned WordPress developer with a passion for crafting digital experiences. Over the years, I've honed my skills in HTML, CSS, Bootstrap, JavaScript, and of course, the intricate world of WordPress. With a knack for troubleshooting and debugging, I thrive on solving complex issues and making websites run seamlessly.< br / >
 
-Currently, I'm engaged as an application engineer, where I delve into shell scripting, MQL debugging, and testing. Concurrently, I'm nurturing my interest in DevOps, actively exploring tools like Docker and Jenkins to streamline development processes and enhance project efficiency.
+Currently, I'm engaged as an application engineer, where I delve into shell scripting, MQL debugging, and testing. Concurrently, I'm nurturing my interest in DevOps, actively exploring tools like Docker and Jenkins to streamline development processes and enhance project efficiency.< br / >
 
-+--------+--------+
-𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 🤝
++--------+--------+< br / >
+𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 🤝< br / >
 +--------+--------+
 Let's connect on LinkedIn and continue the conversation via email. Reach out to me at
 +--------+--------+
