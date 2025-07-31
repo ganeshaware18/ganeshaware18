@@ -1,7 +1,15 @@
 # 💫 About Me:
 Hello there! I'm Ganesh Aware, a seasoned WordPress developer with a passion for crafting digital experiences. Over the years, I've honed my skills in HTML, CSS, Bootstrap, JavaScript, and of course, the intricate world of WordPress. With a knack for troubleshooting and debugging, I thrive on solving complex issues and making websites run seamlessly.
 
-Currently, I'm channeling my expertise as an application engineer, where I'm immersed in the realm of cutting-edge technologies. My curiosity has led me to delve into the realms of DevOps practices, where I'm mastering tools like Docker and exploring the vast potential of cloud technologies. When I'm not immersed in code, you'll find me on the kabaddi field or engrossed in technical videos, constantly expanding my horizons. Let's connect and dive into the exciting world of technology together!
+Currently, I'm engaged as an application engineer, where I delve into shell scripting, MQL debugging, and testing. Concurrently, I'm nurturing my interest in DevOps, actively exploring tools like Docker and Jenkins to streamline development processes and enhance project efficiency.
+
++--------+--------+
+𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 🤝
++--------+--------+
+Let's connect on LinkedIn and continue the conversation via email. Reach out to me at
++--------+--------+
+ganeshshaware18@gmail.com📧 
++--------+--------
 
 :arrow_right:	 Portfolio Link: https://my.cvonline.me/@ganeshaware
 
